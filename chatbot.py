@@ -9,8 +9,7 @@ intents = {
     'goodbye': ['bye', 'see you later'],
     'thanks': ['thank you', 'thanks'],
     'help': ['help', 'what can you do'],
-    'name': ['what is your name?','who are you?'],
-    'love':['you have an girl friend?']
+    'name': ['what is your name?','who are you?']
 }
 
 
@@ -19,8 +18,7 @@ responses = {
     'goodbye': 'See you later! Have a great day!',
     'thanks': 'You\'re welcome!',
     'help': 'I can answer your questions, provide information, and assist with tasks.',
-    'name': 'My Name is Mahi Chatbot,nice to meet you',
-    'love': 'yes,her name is chinni'
+    'name': 'My Name is Mahi Chatbot,nice to meet you'
 }
 
 def chatbot(message):
